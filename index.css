@@ -1,0 +1,62 @@
+body {
+    background-color: #1c1c1c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    font-size: 35px;
+    margin-bottom: 0px;
+}
+
+#moto{
+    color: #D5D4D8;
+    margin-bottom: 30px
+}
+
+button {
+    padding: 10px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: large;
+    color: white;
+    background-color: #10B981;
+    border-radius: 5px;
+    border: 2px;
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+
+.mainField{
+   background-color: #1F2937;
+    color: white;
+    width: 450px;
+    margin: 65px auto;
+    padding: 50px 60px;
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+.passFields {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+    margin-right: 35px;
+    border-top: 2px solid #273549;
+}
+
+.passFieldsDiv{
+    width: 200px;
+    height: 40px; 
+    color: #55F991;
+    background-color: #273549;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 6px;
+    text-align: center;
+    padding-bottom: 5px;
+    
+}
+
+span {
+    color: #10B981
+}
